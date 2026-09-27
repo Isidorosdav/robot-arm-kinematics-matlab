@@ -23,3 +23,6 @@ The main script of this project is `kinematics_final.m`.
 To start the simulation, simply run the following command in your MATLAB command window:
 ```matlab
 kinematics_final
+```
+
+<img width="882" height="836" alt="Animation" src="https://github.com/user-attachments/assets/0ba285a0-6919-4ca0-9283-2cce0d96a0a8" />
